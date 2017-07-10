@@ -9,7 +9,9 @@
 		"typo3/cms-core": "^9.0"
 	},
 	"replace": {
-		"func": "*"
+		"func": "*",
+		"typo3-ter/func": "*",
+		"typo3/cms-func": "*"
 	},
 	"autoload": {
 		"psr-4": {
