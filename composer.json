@@ -3,15 +3,18 @@
 	"type": "typo3-cms-extension",
 	"description": "Brings the backend Web->functions main module for extensions to hook in",
 	"homepage": "https://typo3.org",
-	"license": ["GPL-2.0+"],
-
+	"license": ["GPL-2.0-or-later"],
 	"require": {
 		"typo3/cms-core": "^9.0"
 	},
 	"replace": {
-		"func": "*",
 		"typo3-ter/func": "*",
 		"typo3/cms-func": "*"
+	},
+	"extra": {
+		"typo3/cms": {
+			"extension-key": "func"
+		}
 	},
 	"autoload": {
 		"psr-4": {
