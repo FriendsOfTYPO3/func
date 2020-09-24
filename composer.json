@@ -1,5 +1,5 @@
 {
-	"name": "friendsoftypo3/func",
+	"name": "friendsoftypo3/cms-func",
 	"type": "typo3-cms-extension",
 	"description": "Brings the backend Web->functions main module for extensions to hook in",
 	"homepage": "https://typo3.org",
@@ -8,6 +8,7 @@
 		"typo3/cms-core": "^9.0"
 	},
 	"replace": {
+		"friendsoftypo3/func": "*",
 		"typo3-ter/func": "*",
 		"typo3/cms-func": "*"
 	},
