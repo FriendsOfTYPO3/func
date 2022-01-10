@@ -66,7 +66,7 @@ use TYPO3\CMS\Core\Utility\GeneralUtility;
  * THEN WE CALL THE main() METHOD AND THIS SHOULD SPARK THE CREATION OF THE MODULE OUTPUT.
  * $GLOBALS['SOBE']->main();
  *
- * @deprecated since TYPO3 v9, will be removed in TYPO3 v10.0
+ * copied from TYPO3 v9
  */
 class BaseScriptClass
 {
