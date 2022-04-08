@@ -1,3 +1,8 @@
+[![Latest Stable Version](https://poser.pugx.org/friendsoftypo3/cms-func/v/stable.svg)](https://extensions.typo3.org/extension/func/)
+[![TYPO3 9](https://img.shields.io/badge/TYPO3-9-orange.svg?style=flat-square)](https://get.typo3.org/version/9)
+[![Total Downloads](https://poser.pugx.org/friendsoftypo3/cms-func/d/total.svg)](https://packagist.org/packages/friendsoftypo3/cms-func)
+[![Monthly Downloads](https://poser.pugx.org/friendsoftypo3/cms-func/d/monthly)](https://packagist.org/packages/friendsoftypo3/cms-func)
+
 # TYPO3 extension `func`
 
 This extension brings the "Web->Functions" module to the TYPO3
