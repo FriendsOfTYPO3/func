@@ -2,7 +2,12 @@
 	"name": "friendsoftypo3/cms-func",
 	"type": "typo3-cms-extension",
 	"description": "Brings the backend Web->functions main module for extensions to hook in",
-	"homepage": "https://typo3.org",
+	"homepage": "https://extensions.typo3.org/extension/func/",
+	"support": {
+		"issues": "https://github.com/FriendsOfTYPO3/func/issues",
+		"source": "https://github.com/FriendsOfTYPO3/func",
+		"docs": "https://docs.typo3.org/p/friendsoftypo3/cms-func/main/en-us/"
+	},
 	"license": ["GPL-2.0-or-later"],
 	"require": {
 		"typo3/cms-core": "^9.0"
