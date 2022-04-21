@@ -26,5 +26,12 @@
 		"psr-4": {
 			"TYPO3\\CMS\\Func\\": "Classes/"
 		}
+	},
+	"scripts": {
+		"prepare-release": [
+			"rm -rf .github/",
+			"rm .editorconfig",
+			"rm .gitignore"
+		]
 	}
 }
